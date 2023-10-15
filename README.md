@@ -1,7 +1,5 @@
-<p style="text-align: center;">💞️ "Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough." --Richard P. Feynman  💞️
+<p style="text-align: center;"> "Nobody ever figures out what life is all about, and it doesn't matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough." --Richard P. Feynman 
 </p>
-
-👋 Hi, I am Eimran from Bangladesh. I am 24 years old. I have graduated from Rajshahi University of Engineering & Technology (RUET) with a BS in Computer Science and Engineering (CSE). Currently, I am working as a Full-stack Software Engineer at CoKreates Ltd. I have almost two years of experience in Software Engineering and one year as a Research Assistant.
 
 - RESEARCH INTEREST:
   - Machine Learning.
